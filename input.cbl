@@ -24,7 +24,7 @@
                    NOT AT END
                        DISPLAY "Field1: " FIELD1
                        DISPLAY "Field2: " FIELD2
-           END-READ
+               END-READ
            END-PERFORM.
            CLOSE MY-FILE.
            STOP RUN.
