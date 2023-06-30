@@ -5,6 +5,8 @@
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
        SELECT MY-FILE ASSIGN TO "data.txt".
+      * copy book ()
+      * Data compreson comprimering av veriabel  (comp-3)
 
        DATA DIVISION.
        FILE SECTION.
